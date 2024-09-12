@@ -6,11 +6,6 @@
 <a href="https://www.youtube.com/c/mrzodoxvpython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrzodoxvpython" height="30" width="40" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MrZodoxVpython&show_icons=true&theme=onedark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MrZodoxVpython&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</picture>
-</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=MrZodoxVpython&layout=compact&exclude_repo=Hardware-Course&theme=onedark&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
