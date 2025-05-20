@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/your-custom-fire-banner.gif" alt="🔥 CONNECT WITH ME — LET'S BUILD SOMETHING EPIC 🔥">
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/benjamin-wickman-a32b37204" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Benjamin%20Wickman-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
