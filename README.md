@@ -7,7 +7,7 @@
   <a href="https://fb.com/mrzodoxvpython" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Mrzodoxvpython-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/benjamin_______________wickman" target="_blank">
+  <a href="https://instagram.com/benjamin.wickman" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@benjaminwickman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/c/mrzodoxvpython" target="_blank">
