@@ -10,25 +10,6 @@
   <img src="https://imgur.com/your-custom-fire-banner.gif" alt="🔥 CONNECT WITH ME — LET'S BUILD SOMETHING EPIC 🔥">
 </p>
 
-<svg width="100%" height="60px" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .fire-text {
-      font: bold 32px sans-serif;
-      fill: #ff4500;
-      animation: flicker 1s infinite alternate;
-    }
-    @keyframes flicker {
-      0%   { fill: #ff4500; transform: translateY(0); }
-      50%  { fill: #ff8c00; transform: translateY(-1px); }
-      100% { fill: #ff0000; transform: translateY(1px); }
-    }
-  </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="fire-text">
-    🔥 CONNECT WITH ME — LET'S BUILD SOMETHING EPIC 🔥
-  </text>
-</svg>
-
-
 <p align="center">
   <a href="https://linkedin.com/in/benjamin-wickman-a32b37204" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Benjamin%20Wickman-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
