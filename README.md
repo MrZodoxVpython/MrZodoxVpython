@@ -1,4 +1,6 @@
-<h2 align="center">🔥 CONNECT WITH ME — LET'S BUILD SOMETHING EPIC 🔥</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=🔥+CONNECT+WITH+ME+—+LET'S+BUILD+SOMETHING+EPIC+🔥" alt="🔥 CONNECT WITH ME — LET'S BUILD SOMETHING EPIC 🔥" />
+</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/benjamin-wickman-a32b37204" target="_blank">
